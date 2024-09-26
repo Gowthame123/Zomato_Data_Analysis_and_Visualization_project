@@ -53,5 +53,5 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/zomato-data-analysis.git
+   git clone https://github.com/Gowthame123/Zomato_Data_Analysis_and_Visualization_project.git
    cd zomato-data-analysis
